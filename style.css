@@ -1,0 +1,47 @@
+body {
+	background-color: #F1F7FF;
+}
+
+.box {
+	width: 935px;
+	height: 262px;
+	border: solid 2px #B8E0FF;
+	background-color: #FFFFFF;
+}
+
+ul {
+	margin: 10px 0 5px 0;
+}
+
+li {
+	list-style: none;
+	width: 152px;
+	height: 29px;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	width: 129px;
+	height: 24px;
+	display: block;
+	line-height: 24px;
+}
+
+a:hover {
+	background-color: #EAF4FE;
+}
+
+.xian {
+	width: 910px;
+	height: 1px;
+	background-color: #C7DFF3;
+	position: relative;
+	top: 50%;
+	margin: 0 auto;
+}
+
+.lmbox {
+	width: 152px;
+	float: left;
+}
